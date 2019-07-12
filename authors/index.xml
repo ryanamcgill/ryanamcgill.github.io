@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Academic</title>
+    <link>https://ryanamcgill.github.io/authors/</link>
+    <description>Recent content in Authors on Academic</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} Ryan McGill</copyright>
+    
+	    <atom:link href="https://ryanamcgill.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://ryanamcgill.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ryanamcgill.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;Hello! I am currently searching for Ph.D. positions in Electrical Engineering starting in Fall 2020. Right now I am pursuing my B.E. in Computer Engineering at Auburn University where I work as an undergraduate research assistant for Dr. Mark Adams in the STORM Lab.&lt;/p&gt;
+
+&lt;p&gt;While at Auburn, I have been able to assist on many projects ranging from environmental probes to radar vulnerability testing. I am interested in studying microfabrication processes as well as quantum computing.&lt;/p&gt;
+
+&lt;p&gt;This summer I am in Boston as a research intern at MIT Lincoln Laboratory. Here I&amp;rsquo;m analyzing the impact of large wind farms on air surveillance radar as a project from the Department of Defense. Outside of the lab I enjoy exploring the Boston area, specifically going to nearby beaches and trying as many restaurants as I can!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
