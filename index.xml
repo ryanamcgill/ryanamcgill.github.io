@@ -18,18 +18,22 @@
       <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://ryanamcgill.github.io/project/envoy/</guid>
-      <description>&lt;p&gt;Can&amp;rsquo;t say too much about this project! ENVOY is a system that will allow
-natural-language communication between ASL and non-ASL users. This is done by
-translating ASL to English, and then English back to ASL. Applications that
-are in development today try to focus on translating ASL to spoken or written
-English and stop there. This project is intended to &amp;lsquo;complete the circuit&amp;rsquo; by
-translating the non-ASL user&amp;rsquo;s response into ASL. We are proposingthis idea
-because ASL speakers prefer to communicate in, well, ASL!&lt;/p&gt;
+      <description>&lt;p&gt;ENVOY is a system that will allow  natural-language communication between ASL
+and non-ASL users. This is done by translating ASL to English, and then English
+back to ASL. Applications that are in development today try to focus on
+translating ASL to spoken or written English and stop there. This project is
+intended to &amp;lsquo;complete the circuit&amp;rsquo; by translating the non-ASL user&amp;rsquo;s response
+into ASL. We are proposing this idea because ASL speakers prefer to communicate
+in, well, ASL!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src = &#34;/img/envoy/asl.png&#34; width = &#34;1000&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;This project is a part of the &amp;lsquo;Intern Innovative Idea Challenge&amp;rsquo; (I3C) that is
 done during the summer at MIT Lincoln Laboratory. Currently the project has
 passed the first round (staff voting) and is participating in the
 second round (poster presentation).&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/File:American_Sign_Language_ASL.svg&#34;&gt;Image source.&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -39,15 +43,16 @@ second round (poster presentation).&lt;/p&gt;
       <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://ryanamcgill.github.io/project/windfarm/</guid>
-      <description>&lt;p&gt;Can&amp;rsquo;t say too much about this project! Each year countries put up more and
-more wind turbines that are only growing in size.&lt;/p&gt;
+      <description>&lt;p&gt;Interference from wind turbines can degrade the performance of radar by providing
+a large cross section and Doppler signal.  Further, wind farms generally contain
+turbines that are spaced close together. All of these factors contribute to
+pockets of poor radar performance near wind farms and is a concern for flight
+safety.  As the investment in wind energy increases it is important to understand
+the potential impact of these farms on legacy radar.&lt;/p&gt;
 
-&lt;p&gt;Legacy radars are being impacted as wind turbine blades happen to have
-similar radar cross sections as target aircraft. The spinning of these blades
-gives a doppler return at the radar site. Further, wind farms generally
-contain turbines that are spaced close together. All of these factors contribute
-to pockets of low probability of detection and tracking which translates to
-potential &amp;lsquo;holes&amp;rsquo; in air surveillance.&lt;/p&gt;
+&lt;p&gt;&lt;img src = &#34;/img/windfarm/size.png&#34; width = &#34;1000&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.windenergy.org.nz/improvements-in-technology&#34;&gt;Image source.&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -79,11 +84,10 @@ for one of the testing boards.&lt;/p&gt;
       <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>https://ryanamcgill.github.io/project/radar_vulnerability/</guid>
-      <description>&lt;p&gt;Can&amp;rsquo;t say too much about this project! Currently working for the defense
-contractor Dynetics Inc. to investigate ways of &amp;lsquo;hacking&amp;rsquo; an army provided
-phased array radar via hardware vulnerabilities. Current tasks include emulating the
-radar hardware environment and investigating pathways to attack the system,
-both from standoff distance and from an operational perspective.&lt;/p&gt;
+      <description>&lt;p&gt;Currently working for the defense contractor Dynetics Inc. to investigate ways of
+&amp;lsquo;hacking&amp;rsquo; an army provided phased array radar via hardware vulnerabilities. Current
+tasks include emulating the radar hardware environment and investigating pathways
+to attack the system, both from standoff distance and from an operational perspective.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src = &#34;/img/radar/radar.png&#34; width = &#34;1000&#34;&gt;&lt;/p&gt;
 
