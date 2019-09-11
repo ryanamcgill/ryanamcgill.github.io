@@ -7,15 +7,74 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Ryan McGill</copyright>
-    <lastBuildDate>Fri, 26 Jul 2019 15:20:00 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://ryanamcgill.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>QUEST: Quantum Encrypted Satellite-based Transmission</title>
+      <link>https://ryanamcgill.github.io/project/qkd/</link>
+      <pubDate>Wed, 11 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ryanamcgill.github.io/project/qkd/</guid>
+      <description>&lt;p&gt;As a project from the Air Force University Nano-satellite Program, QUEST aims
+to prove that secure communication can be realized via quantum key
+distribution from a ground station to a satellite.&lt;/p&gt;
+
+&lt;p&gt;I am contributing to the payload section of the satellite. In order to achieve
+quantum key distribution, the satellite&amp;rsquo;s downlink beam must be aligned with the
+ground station. Currently I am designing an embedded controller to take in
+camera data from the uplink and downlink beams and drive a fast steering mirror
+to achieve alignment.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Senior Design: Smith Chart</title>
+      <link>https://ryanamcgill.github.io/project/senior_design/</link>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ryanamcgill.github.io/project/senior_design/</guid>
+      <description>&lt;p&gt;For our senior design project, me and a friend proposed a project to upgrade our
+beautiful Smith chart that lies on the bottom floor of Broun Hall in Auburn.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;The Problem:&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Renovations done to Broun Hall included a large Smith chart on the bottom floor
+of the building. Since it is printed on a marker friendly surface, it offers
+utility towards struggling emag students. However, no protractor exists that is
+easy to use and large enough to work with. Thus, the whiteboard lies dormant.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Our Proposal:&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;A standard projector can be mounted on the same wall of the white board either
+an adjustable mount or a short-throw. A computer (such as a Raspberry Pi) will
+be attached to several sensors in order to create a functioning &amp;ldquo;smart board&amp;rdquo;.
+This can be realized with IR sensors, Wii remotes, and XBOX Kinects. Each
+option will be evaluated to determine the best route to take.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src = &#34;/img/seniordesign/proposal.PNG&#34; width = &#34;1000&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;Above is a rough outline of what our testing apparatus will look like. Before
+fully implementing our design we need to prove that the system will work,
+which is why a large, ground-dwelling mount will have to be used initially.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Wind Turbine Impact on Air Surveillance Radar</title>
+      <link>https://ryanamcgill.github.io/talk/wfasr/</link>
+      <pubDate>Mon, 05 Aug 2019 15:15:00 -0500</pubDate>
+      
+      <guid>https://ryanamcgill.github.io/talk/wfasr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>ENVOY: Enabling Natural-language Versatility and Opportunity - I3C Final Round</title>
       <link>https://ryanamcgill.github.io/talk/envoy2/</link>
-      <pubDate>Fri, 26 Jul 2019 15:20:00 -0400</pubDate>
+      <pubDate>Fri, 26 Jul 2019 15:20:00 -0500</pubDate>
       
       <guid>https://ryanamcgill.github.io/talk/envoy2/</guid>
       <description></description>
@@ -24,7 +83,7 @@
     <item>
       <title>ENVOY: Enabling Natural-language Versatility and Opportunity - I3C Round Two</title>
       <link>https://ryanamcgill.github.io/talk/envoy/</link>
-      <pubDate>Tue, 16 Jul 2019 14:00:00 -0400</pubDate>
+      <pubDate>Tue, 16 Jul 2019 14:00:00 -0500</pubDate>
       
       <guid>https://ryanamcgill.github.io/talk/envoy/</guid>
       <description></description>
