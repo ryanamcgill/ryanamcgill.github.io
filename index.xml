@@ -1,16 +1,63 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
+    <title>Ryan McGill</title>
     <link>https://ryanamcgill.github.io/</link>
-    <description>Recent content on Academic</description>
+    <description>Recent content on Ryan McGill</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Ryan McGill</copyright>
-    <lastBuildDate>Wed, 11 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Dec 2019 00:00:00 -0600</lastBuildDate>
     
 	    <atom:link href="https://ryanamcgill.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Auburn University engineering student developing translation technology for sign language</title>
+      <link>https://ryanamcgill.github.io/post/asl/</link>
+      <pubDate>Sun, 15 Dec 2019 00:00:00 -0600</pubDate>
+      
+      <guid>https://ryanamcgill.github.io/post/asl/</guid>
+      <description>&lt;p&gt;Ryan McGill worked over the summer at the Massachusetts Institute of Technology Lincoln Laboratory, where his team, named ENVOY, or Enabling Natural-language Versatility and Opportunity, won the lab&amp;rsquo;s Intern Innovative Idea Challenge. &lt;a href=&#34;http://www.eng.auburn.edu/news/2019/09/sign-language-technology.html&#34;&gt;Read more here.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MIT Lincoln Laboratory: Meet the Interns</title>
+      <link>https://ryanamcgill.github.io/post/mitll_interview/</link>
+      <pubDate>Sun, 15 Dec 2019 00:00:00 -0600</pubDate>
+      
+      <guid>https://ryanamcgill.github.io/post/mitll_interview/</guid>
+      <description>&lt;p&gt;Meet Ryan M. &amp;ldquo;The Lab is so open to learning! The knowledge center and the lending library offer tools to better your understanding of a topic, enabling you to apply it in a creative way.&amp;rdquo; &lt;a href=&#34;https://www.facebook.com/193719297312968/photos/a.286281231390107/2637011636317043/?type=3&amp;theater&#34;&gt;Read more here.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Integrated Quantum Photonics: Fabrication of Waveguides for Quantum Key Distribution</title>
+      <link>https://ryanamcgill.github.io/talk/fab/</link>
+      <pubDate>Mon, 02 Dec 2019 10:00:00 -0600</pubDate>
+      
+      <guid>https://ryanamcgill.github.io/talk/fab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QUEST: Quantum Encrypted Satellite-based Transmission Payload - Auburn COSAM Undergraduate Research Fair</title>
+      <link>https://ryanamcgill.github.io/talk/qkd2/</link>
+      <pubDate>Thu, 07 Nov 2019 10:00:00 -0600</pubDate>
+      
+      <guid>https://ryanamcgill.github.io/talk/qkd2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QUEST: Quantum Encrypted Satellite-based Transmission Payload - Preliminary Design Review</title>
+      <link>https://ryanamcgill.github.io/talk/qkd/</link>
+      <pubDate>Wed, 30 Oct 2019 10:00:00 -0500</pubDate>
+      
+      <guid>https://ryanamcgill.github.io/talk/qkd/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>QUEST: Quantum Encrypted Satellite-based Transmission</title>
@@ -18,15 +65,19 @@
       <pubDate>Wed, 11 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://ryanamcgill.github.io/project/qkd/</guid>
-      <description>&lt;p&gt;As a project from the Air Force University Nano-satellite Program, QUEST aims
-to prove that secure communication can be realized via quantum key
-distribution from a ground station to a satellite.&lt;/p&gt;
+      <description>&lt;p&gt;As a project for the Department of Defense, QUEST aims to prove that secure
+communication can be realized via quantum key distribution from a ground
+station to a satellite.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src = &#34;/img/qkd/bb84.png&#34; width = &#34;1000&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;I am contributing to the payload section of the satellite. In order to achieve
-quantum key distribution, the satellite&amp;rsquo;s downlink beam must be aligned with the
-ground station. Currently I am designing an embedded controller to take in
-camera data from the uplink and downlink beams and drive a fast steering mirror
-to achieve alignment.&lt;/p&gt;
+quantum key distribution (QKD), the satellite&amp;rsquo;s downlink beam must be aligned with the
+ground station. Our payload is using the Bennet-Brassard 1984 scheme for polarization
+based QKD. Currently I am designing an embedded controller to take in camera data from
+the uplink and downlink beams and drive a fast steering mirror to achieve alignment.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://universitynanosat.org/&#34;&gt;Link to University Nanosatellite Program &lt;/a&gt; &lt;a href=&#34;http://physique.unice.fr/sem6/2014-2015/PagesWeb/PT/Tomographie/?page=bb84&#34;&gt;Image source.&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

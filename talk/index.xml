@@ -1,16 +1,43 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks on Academic</title>
+    <title>Recent &amp; Upcoming Talks on Ryan McGill</title>
     <link>https://ryanamcgill.github.io/talk/</link>
-    <description>Recent content in Recent &amp; Upcoming Talks on Academic</description>
+    <description>Recent content in Recent &amp; Upcoming Talks on Ryan McGill</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Ryan McGill</copyright>
-    <lastBuildDate>Mon, 05 Aug 2019 15:15:00 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 02 Dec 2019 10:00:00 -0600</lastBuildDate>
     
 	    <atom:link href="https://ryanamcgill.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Integrated Quantum Photonics: Fabrication of Waveguides for Quantum Key Distribution</title>
+      <link>https://ryanamcgill.github.io/talk/fab/</link>
+      <pubDate>Mon, 02 Dec 2019 10:00:00 -0600</pubDate>
+      
+      <guid>https://ryanamcgill.github.io/talk/fab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QUEST: Quantum Encrypted Satellite-based Transmission Payload - Auburn COSAM Undergraduate Research Fair</title>
+      <link>https://ryanamcgill.github.io/talk/qkd2/</link>
+      <pubDate>Thu, 07 Nov 2019 10:00:00 -0600</pubDate>
+      
+      <guid>https://ryanamcgill.github.io/talk/qkd2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QUEST: Quantum Encrypted Satellite-based Transmission Payload - Preliminary Design Review</title>
+      <link>https://ryanamcgill.github.io/talk/qkd/</link>
+      <pubDate>Wed, 30 Oct 2019 10:00:00 -0500</pubDate>
+      
+      <guid>https://ryanamcgill.github.io/talk/qkd/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Wind Turbine Impact on Air Surveillance Radar</title>

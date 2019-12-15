@@ -3,9 +3,56 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ryanamcgill.github.io/post/asl/</loc>
+    <lastmod>2019-12-15T00:00:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ryanamcgill.github.io/post/mitll_interview/</loc>
+    <lastmod>2019-12-15T00:00:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ryanamcgill.github.io/post/</loc>
+    <lastmod>2019-12-15T00:00:00-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ryanamcgill.github.io/</loc>
-    <lastmod>2019-09-11T00:00:00+00:00</lastmod>
+    <lastmod>2019-12-15T00:00:00-06:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanamcgill.github.io/tags/</loc>
+    <lastmod>2019-12-15T00:00:00-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanamcgill.github.io/tags/mitll/</loc>
+    <lastmod>2019-12-15T00:00:00-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanamcgill.github.io/talk/fab/</loc>
+    <lastmod>2019-12-02T10:00:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ryanamcgill.github.io/talk/</loc>
+    <lastmod>2019-12-02T10:00:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ryanamcgill.github.io/talk/qkd2/</loc>
+    <lastmod>2019-11-07T10:00:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ryanamcgill.github.io/talk/qkd/</loc>
+    <lastmod>2019-10-30T10:00:00-05:00</lastmod>
   </url>
   
   <url>
@@ -20,12 +67,6 @@
   </url>
   
   <url>
-    <loc>https://ryanamcgill.github.io/tags/</loc>
-    <lastmod>2019-09-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://ryanamcgill.github.io/tags/auburn/</loc>
     <lastmod>2019-09-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -34,11 +75,6 @@
   <url>
     <loc>https://ryanamcgill.github.io/project/senior_design/</loc>
     <lastmod>2019-09-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ryanamcgill.github.io/talk/</loc>
-    <lastmod>2019-08-05T15:15:00-05:00</lastmod>
   </url>
   
   <url>
@@ -64,12 +100,6 @@
   <url>
     <loc>https://ryanamcgill.github.io/project/windfarm/</loc>
     <lastmod>2019-07-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ryanamcgill.github.io/tags/mitll/</loc>
-    <lastmod>2019-07-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -99,10 +129,6 @@
   <url>
     <loc>https://ryanamcgill.github.io/categories/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ryanamcgill.github.io/post/</loc>
   </url>
   
   <url>

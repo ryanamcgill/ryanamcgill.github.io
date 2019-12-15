@@ -1,15 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Academic</title>
+    <title>Posts on Ryan McGill</title>
     <link>https://ryanamcgill.github.io/post/</link>
-    <description>Recent content in Posts on Academic</description>
+    <description>Recent content in Posts on Ryan McGill</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Ryan McGill</copyright>
+    <lastBuildDate>Sun, 15 Dec 2019 00:00:00 -0600</lastBuildDate>
     
 	    <atom:link href="https://ryanamcgill.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Auburn University engineering student developing translation technology for sign language</title>
+      <link>https://ryanamcgill.github.io/post/asl/</link>
+      <pubDate>Sun, 15 Dec 2019 00:00:00 -0600</pubDate>
+      
+      <guid>https://ryanamcgill.github.io/post/asl/</guid>
+      <description>&lt;p&gt;Ryan McGill worked over the summer at the Massachusetts Institute of Technology Lincoln Laboratory, where his team, named ENVOY, or Enabling Natural-language Versatility and Opportunity, won the lab&amp;rsquo;s Intern Innovative Idea Challenge. &lt;a href=&#34;http://www.eng.auburn.edu/news/2019/09/sign-language-technology.html&#34;&gt;Read more here.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MIT Lincoln Laboratory: Meet the Interns</title>
+      <link>https://ryanamcgill.github.io/post/mitll_interview/</link>
+      <pubDate>Sun, 15 Dec 2019 00:00:00 -0600</pubDate>
+      
+      <guid>https://ryanamcgill.github.io/post/mitll_interview/</guid>
+      <description>&lt;p&gt;Meet Ryan M. &amp;ldquo;The Lab is so open to learning! The knowledge center and the lending library offer tools to better your understanding of a topic, enabling you to apply it in a creative way.&amp;rdquo; &lt;a href=&#34;https://www.facebook.com/193719297312968/photos/a.286281231390107/2637011636317043/?type=3&amp;theater&#34;&gt;Read more here.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
